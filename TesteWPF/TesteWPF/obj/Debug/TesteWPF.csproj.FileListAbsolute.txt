@@ -1,0 +1,15 @@
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\bin\Debug\TesteWPF.exe.config
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\bin\Debug\TesteWPF.exe
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\bin\Debug\TesteWPF.pdb
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\App.g.cs
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF_MarkupCompile.cache
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF_MarkupCompile.lref
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\MainWindow.baml
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF.g.resources
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF.Properties.Resources.resources
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF.csproj.GenerateResource.cache
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF.exe
+C:\Users\Jctc\source\repos\TesteWPF\TesteWPF\obj\Debug\TesteWPF.pdb
